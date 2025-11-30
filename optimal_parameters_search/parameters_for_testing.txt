@@ -1,0 +1,6 @@
+Parameters:
+- Populationi size = 30
+- Number of generations = 100
+- Number of parents mating = 10
+- Testing on 4 different initial populations
+- Testing on 3 different graphs (10, 20, 30 nodes(full graphs))

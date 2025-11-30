@@ -1,0 +1,9 @@
+Parameters:
+- tested on almost full (probability for a link is 0.8) graphs of size(10, 30, 50)
+- number of  generations = 100
+- population size = 2 * number_nodes_in_graph
+- number of parents mating = number_nodes_in_graph
+- configuration: {pst: tournament, mt: custom_mutation, ct: custom_crossover_1, mp: 0.6, cp: 0.6}
+- tested on 30 differnet initial populations for each graph-> so overall on 90 different initial populations
+
+- 6 optimal solutions found
